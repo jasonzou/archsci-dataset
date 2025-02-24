@@ -170,3 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# my ignore
+data
+LLM_MakeDialogue
+RAG_langchain

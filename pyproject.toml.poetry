@@ -1,0 +1,48 @@
+project = { dependencies = [
+    "typer>=0.15.1",
+] }
+[tool.poetry]
+name = "archsci-dataset"
+version = "0.1.0"
+description = ""
+authors = ["Jason Zou <qzou@lakeheadu.ca>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tqdm = "^4.67.1"
+loguru = "^0.7.3"
+openai = "^1.63.2"
+ollama = "^0.4.7"
+typer = "^0.15.1"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+poethepoet = "^0.32.2"
+ruff = "^0.9.7"
+
+[tool.rye.scripts]
+convert = { cmd = ["python", "-marchsci_dataset", "convert"] }
+
+[tool.poe.tasks]
+_build = "poetry build"
+build  = ["test", "_build"] # this task runs the two referenced tasks in sequence
+_semversioner_release = "semversioner release"
+_semversioner_changelog = "semversioner changelog > CHANGELOG.md"
+_semversioner_update_toml_version = "update-toml update --path tool.poetry.version --value $(poetry run semversioner current-version)"
+semversioner_add = "semversioner add-change"
+coverage_report = 'coverage report --omit "**/tests/**" --show-missing'
+check_format = 'ruff format . --check'
+fix = "ruff check --fix ."
+fix_unsafe = "ruff check --fix --unsafe-fixes ."
+_test_all = "coverage run -m pytest ./tests"
+# Pass in a test pattern
+test_only = "pytest -s -k"
+serve_docs = "mkdocs serve"
+build_docs = "mkdocs build"
+convert = "python -m archsci_dataset convert"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,56 +1,36 @@
 [project]
 name = "archsci-dataset"
 version = "0.1.0"
-description = "Archival Science dataset from open access textual documents"
-license = { text = "MIT" }
+description = "Add your description here"
 authors = [
-    {name = "Jason Zou",email = "jason.zou@gmail.com"}
+    { name = "Jason Zou", email = "qzou@lakeheadu.ca" }
+]
+dependencies = [
+    "typer>=0.15.1",
+    "saxonche>=12.5.0",
+    "loguru>=0.7.3",
+    "sentence-transformers>=3.4.1",
+    "matplotlib>=3.10.0",
+    "pandas>=2.2.3",
 ]
 readme = "README.md"
-requires-python = ">=3.12,<4.0"
-dependencies = [
-    "tqdm (>=4.67.1,<5.0.0)",
-    "loguru (>=0.7.3,<0.8.0)",
-    "langchain (>=0.3.19,<0.4.0)",
-    "langchain-community (>=0.3.18,<0.4.0)",
-    "pymilvus (>=2.5.4,<3.0.0)",
-    "openai (>=1.63.2,<2.0.0)",
-    "ollama (>=0.4.7,<0.5.0)",
-    "typer (>=0.15.1,<0.16.0)"
-]
-
-[tool.poetry]
-package-mode = false
-packages = [{include = "archsci_dataset", from = "archsci_dataset"}]
-
-[tool.poe.tasks]
-_build = "poetry build"
-build  = ["test", "_build"] # this task runs the two referenced tasks in sequence
-_semversioner_release = "semversioner release"
-_semversioner_changelog = "semversioner changelog > CHANGELOG.md"
-_semversioner_update_toml_version = "update-toml update --path tool.poetry.version --value $(poetry run semversioner current-version)"
-semversioner_add = "semversioner add-change"
-coverage_report = 'coverage report --omit "**/tests/**" --show-missing'
-check_format = 'ruff format . --check'
-fix = "ruff check --fix ."
-fix_unsafe = "ruff check --fix --unsafe-fixes ."
-_test_all = "coverage run -m pytest ./tests"
-# Pass in a test pattern
-test_only = "pytest -s -k"
-serve_docs = "mkdocs serve"
-build_docs = "mkdocs build"
-convert = "python -m archsci_dataset convert"
-
-[[tool.poe.tasks.test]]
-sequence = ['_test_all', 'coverage_report']
-ignore_fail = 'return_non_zero'
-
-[tool.poetry.group.dev.dependencies]
-pytest = "^8.3.4"
-semversioner = "^2.0.5"
-coverage = "^7.6.12"
-ruff = "^0.9.7"
+requires-python = ">= 3.10"
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.rye.scripts]
+convert = { cmd = ["python", "-marchsci_dataset", "convert"] }
+preprocess = { cmd = ["python", "-marchsci_dataset", "preprocess"] }
+
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/archsci_dataset"]
