@@ -56,7 +56,7 @@ def preprocess_footnote_intext(text:str) -> list:
     matches = footnote_pattern.findall(text)
     return matches 
 
-with open("./data/journals/00001.md") as fp:
+with open("./data/journals/00002.md") as fp:
     content = fp.readlines()
 
 text = ""
@@ -136,18 +136,21 @@ def split_into_sections(text:str) -> list[str]:
     
     # Find all sections 
     sections = pattern.findall(text)
-    # Print results
-    for idx, section in enumerate(sections, 1):
-        print(f"Section {idx}:")
-        print(section.strip())
-        print("-" * 30)
+
+    return sections
+
+def split_into_section_paragraphs(text:str) -> list[dict]:
+    sections = split_into_sections(text)
+    paras = []
+    for section_id, section in enumerate(sections): 
         paragraphs = split_by_paragraphs(section)
+        current_section = {"section": section, "section_id":section_id}
         for idx, para in enumerate(paragraphs): 
-            print(f"Paragraph {idx}:") 
-            print(para) 
-            print("p" * 30)
+            current_section["paragraph"] = para
+            current_section["paragraph_id"] = idx
+            paras.append(current_section)
         
-        print("+" * 30)
+    return paras
 
 def split_by_headings(text:str) -> list[str]:
     # Regex pattern to capture sections (including headers and content)
@@ -158,14 +161,15 @@ def split_by_headings(text:str) -> list[str]:
     
     # Find all sections 
     sections = pattern.findall(text)
-    # Print results
-    for idx, section in enumerate(sections, 1):
-        print(f"heading {idx}:")
-        print(section.strip())
-        print("=" * 30)
+    return sections
 
 
-split_into_sections(text)
+paras = split_into_section_paragraphs(text)
+for idx,para in enumerate(paras):
+    for key, value in para.items():
+        print("0" * 60)
+        print(key, value)
+        print("-" * 60)
 #split_by_headings(text)
 exit()
 
