@@ -91,6 +91,84 @@ print("----------- 1. preprocess footnote ============")
 # 1. preprocess_footnote
 print(preprocess_footnote(text))
 
+def merge_text_into_paragraph(text:list[str])->list[str]:
+    merged_paras = [text[0]]
+    for para in text[1:]:
+        # check whether the paragraphs starts with lowercase 
+        if re.match(r'^\s*[a-z]', para):
+            # Merge with previous paragraph
+            if merged_paras[-1].startswith('#'):
+                merged_paras.append(para)
+            else: 
+                merged_paras[-1] += ' ' + para
+        else:
+            if re.match(r'^\s*#+', para):
+                if merged_paras[-1][-1] != ".": 
+                    merged_paras[-1] += ' ' + para
+                else: 
+                    merged_paras.append(para)
+            else: 
+                merged_paras.append(para)
+    return merged_paras
+        
+
+
+def split_by_paragraphs(text:str) -> list[str]:
+    # Split text into paragraphs using 1+ newlines as separators
+    raw_paragraphs = re.split(r'\n{2,}', text.strip())
+
+    raw_paragraphs = merge_text_into_paragraph(raw_paragraphs) 
+    # Clean up paragraphs: remove internal newlines and trim whitespace
+    cleaned_paragraphs = []
+    for para in raw_paragraphs:
+        # Replace internal newlines with a space and collapse whitespace
+        cleaned = re.sub(r'\s+', ' ', para.replace('\n', ' ')).strip()
+        if cleaned:  # Ignore empty paragraphs
+            cleaned_paragraphs.append(cleaned)
+    return cleaned_paragraphs
+
+def split_into_sections(text:str) -> list[str]:
+    # Regex pattern to capture sections (including headers and content)
+    pattern = re.compile(
+        r'(?m)^##?\s+[A-Z].*?(?=\n##?\s+[A-Z]|\Z)',  # Matches headers and their content 
+        flags=re.DOTALL
+    ) 
+    
+    # Find all sections 
+    sections = pattern.findall(text)
+    # Print results
+    for idx, section in enumerate(sections, 1):
+        print(f"Section {idx}:")
+        print(section.strip())
+        print("-" * 30)
+        paragraphs = split_by_paragraphs(section)
+        for idx, para in enumerate(paragraphs): 
+            print(f"Paragraph {idx}:") 
+            print(para) 
+            print("p" * 30)
+        
+        print("+" * 30)
+
+def split_by_headings(text:str) -> list[str]:
+    # Regex pattern to capture sections (including headers and content)
+    pattern = re.compile(
+        r'(?m)^#+\s+[A-Z].*?(?=\n#+\s+[A-Z]|\Z)',  # Matches headers and their content 
+        flags=re.DOTALL
+    ) 
+    
+    # Find all sections 
+    sections = pattern.findall(text)
+    # Print results
+    for idx, section in enumerate(sections, 1):
+        print(f"heading {idx}:")
+        print(section.strip())
+        print("=" * 30)
+
+
+split_into_sections(text)
+#split_by_headings(text)
+exit()
+
 from langchain_text_splitters import CharacterTextSplitter
 
 text_splitter = CharacterTextSplitter(
@@ -155,7 +233,7 @@ print(len(sentences_list))
 sentences = [{"sentence": x, "index": i} for i, x in enumerate(sentences_list)]
 print("Sssssentences")
 print(sentences)
-exit
+exit()
 
 
 def combine_sentences(sentences, buffer_size=1):
