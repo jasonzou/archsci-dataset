@@ -144,10 +144,15 @@ def split_into_section_paragraphs(text:str) -> list[dict]:
     paras = []
     for section_id, section in enumerate(sections): 
         paragraphs = split_by_paragraphs(section)
-        current_section = {"section": section, "section_id":section_id}
         for idx, para in enumerate(paragraphs): 
-            current_section["paragraph"] = para
-            current_section["paragraph_id"] = idx
+            print("aDDDDD")
+            current_section = {
+                "section": section, 
+                "section_id":section_id,
+                "paragraph": para,
+                "paragraph_id": idx,
+                "length": len(para)
+            }
             paras.append(current_section)
         
     return paras
@@ -164,13 +169,44 @@ def split_by_headings(text:str) -> list[str]:
     return sections
 
 
+def chunksize(text: list[dict]) -> list[str]:
+    chunk_docs=[]
+
 paras = split_into_section_paragraphs(text)
+current_length = 0
+chunks = []
+count_chunks = 0
+current_chunk = ""
 for idx,para in enumerate(paras):
-    for key, value in para.items():
-        print("0" * 60)
-        print(key, value)
-        print("-" * 60)
+    print(para["section_id"], para["paragraph_id"], para["length"])
+    print("-" * 60) 
+    if current_length + para["length"] > 384: 
+        # need to split para 
+        sentences = re.split(r'[.?!]', para["paragraph"]) 
+        leftover_sentences = [] 
+        for sentence in sentences: 
+            if len(sentence) + current_length < 384: 
+                current_chunk += sentence 
+                current_length += len(sentence) 
+            else: 
+                leftover_sentences.append(sentence)
+        chunks.append(current_chunk)
+        if len(leftover_sentences) > 0:
+            current_chunk += ' '.join(leftover_sentences)
+            current_length = len(current_chunk)
+    else:
+        current_chunk += para["paragraph"]
+        current_length = len(current_chunk)
+
+print(len(chunks))                   
+print(chunks)                   
+
+
+
+
 #split_by_headings(text)
+
+
 exit()
 
 from langchain_text_splitters import CharacterTextSplitter
