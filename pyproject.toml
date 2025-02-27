@@ -29,6 +29,8 @@ dev-dependencies = []
 convert = { cmd = ["python", "-marchsci_dataset", "convert"] }
 preprocess = { cmd = ["python", "-marchsci_dataset", "preprocess"] }
 preprocess_footnotes = { cmd = ["python", "-marchsci_dataset", "preprocess_footnotes"] }
+test01 = { cmd = ["python", "-marchsci_dataset", "test01"] }
+test03 = { cmd = ["python", "-marchsci_dataset", "test03"] }
 
 
 [tool.hatch.metadata]
