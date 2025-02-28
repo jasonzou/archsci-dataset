@@ -67,9 +67,19 @@ def semantic_chunks(sentences, break_points: list[int]) -> list[str]:
     return grouped_texts
 
 def chunk_breakpoints(similarities: list[np.ndarray], breakpoint_percentile_threshold:int=95):
-  breakpoint_distance_threshold = np.percentile(similarities, 80)
-  threshold_indices = np.argwhere(similarities>= breakpoint_distance_threshold).ravel()
-  return threshold_indices
+    """
+    Identify indices in the similarity list where the similarity values exceed a certain percentile threshold.
+
+    Args:
+        similarities (list[np.ndarray]): A list of similarity scores between consecutive text chunks.
+        breakpoint_percentile_threshold (int): The percentile threshold to determine breakpoints. Default is 95.
+
+    Returns:
+        np.ndarray: An array of indices where the similarity values exceed the calculated threshold.
+    """
+    breakpoint_distance_threshold = np.percentile(similarities, 80)
+    threshold_indices = np.argwhere(similarities>= breakpoint_distance_threshold).ravel()
+    return threshold_indices
     
 
 def build_chunks_stack(distances, 
