@@ -1,0 +1,1222 @@
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+['1']
+===== 1 =========
+[]
+===== 2 =========
+
+==============
+[]
+===== 1 =========
+['1']
+===== 2 =========
+1
+==============
+[]
+===== 1 =========
+['1']
+===== 2 =========
+1
+==============
+[]
+===== 1 =========
+['1']
+===== 2 =========
+1
+==============
+[]
+===== 1 =========
+['1']
+===== 2 =========
+1
+==============
+[]
+===== 1 =========
+['1']
+===== 2 =========
+1
+==============
+['2', '3', '4', '5']
+===== 1 =========
+['1']
+===== 2 =========
+1
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5']
+===== 2 =========
+5
+==============
+['6']
+===== 1 =========
+['1', '2', '3', '4', '5']
+===== 2 =========
+5
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6']
+===== 2 =========
+6
+==============
+['7', '8']
+===== 1 =========
+['1', '2', '3', '4', '5', '6']
+===== 2 =========
+6
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8']
+===== 2 =========
+8
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8']
+===== 2 =========
+8
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8']
+===== 2 =========
+8
+==============
+['9', '10', '11', '12']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8']
+===== 2 =========
+8
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+===== 2 =========
+12
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+===== 2 =========
+12
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+===== 2 =========
+12
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+===== 2 =========
+12
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+===== 2 =========
+12
+==============
+['13', '14']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+===== 2 =========
+12
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14']
+===== 2 =========
+14
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14']
+===== 2 =========
+14
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14']
+===== 2 =========
+14
+==============
+['15', '16', '17', '18', '19']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14']
+===== 2 =========
+14
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+===== 2 =========
+19
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+===== 2 =========
+19
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+===== 2 =========
+19
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+===== 2 =========
+19
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+===== 2 =========
+19
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+===== 2 =========
+19
+==============
+['21', '22', '23', '24']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+===== 2 =========
+19
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+['2', '124']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+['29', '30', '31']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24']
+===== 2 =========
+24
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+['32']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31']
+===== 2 =========
+31
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+['33']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32']
+===== 2 =========
+32
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33']
+===== 2 =========
+33
+==============
+['34', '35']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33']
+===== 2 =========
+33
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35']
+===== 2 =========
+35
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35']
+===== 2 =========
+35
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35']
+===== 2 =========
+35
+==============
+['36', '37']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35']
+===== 2 =========
+35
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+['2', '50', '10502']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+['1']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+[]
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+==============
+['1']
+===== 1 =========
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '29', '30', '31', '32', '33', '34', '35', '36', '37']
+===== 2 =========
+37
+=========================
+# Introduction  
+
+JENNIFER DOUGLAS, MYA BALLIN, and JESSICA LAPP  
+
+Archivaria 94 (Fall/Winter 2022), pp. 5-21  
+
+# Cite this article:  
+
+Douglas, Jennifer, Mya Ballin, and Jessica Lapp. “Introduction”. Archivaria 94   
+(Fall/Winter 2022): 5-21. https://archivaria.ca/index.php/archivaria/article/view/13861  
+
+# Introduction  
+
+jennifer douglas, mya ballin, and jessica lapp  
+
+A significant portion of archival practice involves working closely with the people who create, use, care for, and are documented in records, but until relatively recently, the archival field has rarely acknowledged in its theory, methodology, and pedagogy the degree to which it is – or should be – person centred. This special issue was conceived as part of an effort to highlight and consolidate developments toward a person-centred theory of archival care and to person-centred approaches to archival practice.  
+
+We define person-centred approaches in the context of archival theory and praxis broadly, as those that shift attention from the record, where it has traditionally been almost exclusively focused, to the people who create, keep, use, and are represented in records. It is important to us to acknowledge that person-centred archival theory and praxis are not altogether new. We do not claim to be the first archival studies scholars to explore ideas about the person at the heart of records and recordkeeping practices, nor do we wish to erase or downplay the work of professional archivists and records managers who have been actively working to respond to the needs of the people who create, use, and are represented in records. Exploring the concept of “firsting” in theory building and academic inquiry, Lauren Beck positions it as “the process through which a scholar presents an act, circumstance, or phenomenon generated by [a hu]man, or accomplishment to have occurred for the first time.” Max Liboiron describes firsting as endemic in academia, where students are trained to “stake out” their research areas and “claim” their territory. As Liboiron points out, these metaphors are rooted in coloniality. Firsting is a form of terra nullius. It presumes that nothing came before, and it effaces localized ways of knowing and building meaning.  
+
+Many of the ways we talk about information in Western contexts – concepts of access, discovery, and innovation – are likewise inherently rooted in coloniality. For example, scholars critical of Western systems of knowledge attribution have tied conversations about intellectual ownership and novelty to the colonial treatment of land and title. We are mindful of the editorial and scholarly urge to proclaim newness or to “stake a claim” to the term person centred. Our aim is instead to bring together a varied corpus of work that explores different ways of centring people in archives and records work in order to understand commonalities and differences in approaches and to bring person-centred theories and approaches into deliberate conversation with each other. Our hope is that this special issue can provide some framing for understanding – and continuing to explore and extend – what constitutes, or could constitute, person-centred archival theory and practice.  
+
+As part of this framing, we consider how archivists and archival scholars have already begun to centre people. Although the term person centred (or human centred) has only recently been used to describe archival approaches, the archival studies literature has, for the last decade especially, seen a tremendous shift in emphasis toward the people who participate in making, keeping, and using records and those who are impacted by these actions. Personcentred approaches are evident in and across recent archival scholarship, especially scholarship related to personal and community archives and in  
+
+
+
+scholarship that  draws on Indigenous, queer, feminist, anti-racist, anti- and  
+
+
+
+
+
+de-colonial, and disability studies. This body of work explores ideas about  
+
+
+
+# symbolic annihilation, radical empathy, affect, the body and embodiment, and ethics of care (and this is not an exhaustive or mutually exclusive list).  
+
+
+
+
+
+
+Person-centred approaches are also evident in archival practices that centre the perspectives of individuals and communities, especially those that have historically been harmed by archival work:20 for example, reparative description and redescription projects seek to address the impacts of racism and other forms of discrimination in finding aids and in records themselves; takedown policies on archival websites give individuals and communities some say in which materials are available to which publics; and trauma-informed approaches to a range of archival functions and relationships seek to support and empower people who use or are documented in records. Person-centred approaches have also begun to acknowledge the archives and records worker as a person. Work on  
+
+Smith, special issue, Journal of Critical Library and Information Studies 3, no. 2 (2021), https://doi.org/10.24242 /jclis.v3i2.124.  
+
+
+
+
+
+
+This very broad sketch of the contours of archival scholarship cannot possibly acknowledge all of the scholars and practices whose contributions could be considered person centred. Our tracing of the past is centred in our understanding that, to quote Sara Ahmed, “Citation is feminist memory. Citation is how we acknowledge our debt to those who came before. . . . Citations can be feminist bricks: they are the materials through which, from which, we create our dwellings.” The previous paragraph attempts to sketch the landscape on which the articles in this issue continue to build. We note here how metaphors of land and building – metaphors of settlerism – assert themselves so easily, and we recognize how problematically gestural our citation of decades’ worth of research in a single paragraph might seem. In Why Indigenous Literatures Matter, Daniel Heath Justice considers the way that “always citing the same small circle of voices is both harmful to the health of the field and disrespectful to the many fine scholars and writers whose work informs, enhances, challenges, and complicates our broader conversation. It’s also a political choice that too often silences the less empowered and enfranchised, who are often the ones with the most trenchant understandings.” While we have endeavoured to cite not only “the same small circle,” we have undoubtedly left out some voices; we are glad to note that the contributors to this special issue have also endeavoured to be generous and intentional in their citation practices and in their continued expansion of our understanding of what it means to consider people at the centre of a model of archival care.  
+
+This special issue began with a call for expressions of interest, and we received dozens of excellent responses. We quickly realized that the special issue would necessarily represent a selective view of person-centred archival theory and praxis; this is true of any special issue, it being impossible to capture all facets and angles of a topic in a single publication at a single time. Instead of seeing this as a limitation, we see it as another way of resisting claims to an authoritative or final definition of what it means to be person centred in archival theory and praxis. We see this special issue as an opening, an invitation.  
+
+# Key Themes  
+
+While the articles in this special issue approach the idea of person-centredness from different angles, reading them together surfaces a number of key themes that connect to and build on the scholarship and praxis noted above.  
+
+# Acknowledging Archival Harms and the Necessity of Reparation  
+
+Each of the included articles recognizes that traditional archival theory and the practices enacting it have caused real harm to individuals and communities. The articles identify harms resulting from descriptive practices that include harmful language (Lomas et al.); exclude specific stories, people, and events (Laurent, O’Neill, and Wright); and deny agency to those whom they impact (Brilmyer). Contributors also recognize a kind of harm that Krystal Payne identifies as specifically archival (Payne), which results from extractive mentalities and practices (Christen) such as “hungry listening,” the extraction of materials from communities, and paternalistic notions of what records are and what kinds of care they need. Silencing is another common form of archival harm, which, as our contributors demonstrate, happens in many ways, including through disappearance (Aton; Qvortrup and Giraldo), by design (Brilmyer), and in accordance with policies and conventions (Lomas et al.; Laurent, O’Neill, and Wright; Brilmyer; Guerrero).  
+
+The articles included in this special issue work to identify archival harms, but they do not stop there; instead, each emphasizes the importance of repairing harms through the development of new archival theories and methodologies. The authors in this issue write against the idea that reparation – and any practice that is truly person centred and liberatory – can be enacted through what Dorothy Berry calls “workflow adjustment”; instead, they recognize that archival reparations can only be achieved through fundamental changes to the ways we think about relationships and care.  
+
+# Importance of Relationality  
+
+Weaving its way through every piece in this special issue is the concept of relationality, which is variously explored in the relationships between records and record subjects (Laurent, O’Neill, and Wright; Lomas et al.); record subjects and archivists (Malek); archivists and records creators (Payne); archival workers and record-creating communities (Christen); and users and archival spaces (Brilmyer), archival practitioners (Guerrero), and record custodians (Aton; Qvortrup and Giraldo). In the context of this issue, relationality refers to the affective, emotional, and at times physical relationships that form between archival materials and the persons who activate them. Emerging from this rich field of inquiry are some core unifying concepts. Christen positions attribution and acknowledgement as necessarily relational. Building on Liboiron’s work, Christen states, “Citation is not only a mode of acknowledgement . . . it is a form of relation.” She asks us, as archival workers and practitioners, to build better listening practices that, rather than being “starved from relations,” are in full relationship with record-creating communities.  Relational responsibility is also surfaced through discussion of records stewardship by Lomas et al., Brilmyer, and Payne, who advocate for reciprocal and community-based models of caring for records and making them accessible over time. In exploring the recordkeeping practices that bind families to the memories of disappeared relatives, Aton and Qvortrup & Giraldo demonstrate a form of records stewardship that is rooted in justice, responsibility, and love.  
+
+The relational archival forces that emerge through this special issue demonstrate the wide-ranging and at times interrelated forms of care and feeling that are foundational to building and maintaining archival relationships. The authors do not offer a singular or unified approach to archival relational responsibility but, rather, demonstrate archival relationality as situated, localized, and essential to building archival meaning over time.  
+
+# Centring Emotions, Desires, and Experiences of Communities and Individuals  
+
+A third key theme that emerges from the different articles included in this special issue is a focus on the emotions, desires, and experiences of communities and individuals who are connected to – or in relationship with – records and each other. In different ways, the articles validate the idea that emotions and feelings should be central concerns for archivists, archival policy-makers, and institutions. Individually and collectively, the articles illustrate the important relationships between emotions, power(lessness), and possibility and, especially, the power of emotion to disrupt power and invoke possibility. Emotions, feelings, and lived experiences are also shown to be important elements of the work involved in righting archival wrongs. In contexts in which communities or phenomena are new to the realm of archival work, scholars often use emotional narratives and impacts to assert the validity of their work and the importance of training the archival eye on the communities in question. In these instances (Brilmyer; Aton; Qvortrup and Giraldo), we see how emotion is intricately tied to experiences of powerlessness, and we are encouraged to consider the depth of the contributions these experiences could make to archival work and scholarship. Some contributors extend extant bodies of work that assert the important relationships between communities and particular bodies of records by exploring the possible ways in which affective experiences might successfully be represented in archival practice (Lomas et al.; Laurent, O’Neil, and Wright; Payne; Christen). In the context of critically reflexive scholarship (Guerrero; Malek), archivists’ personal emotional experiences and the relational elements of their work become sites of possibility, where emotion can fuel imaginings about the future of work. Although centring a different source of emotion from the other strategies outlined above, this work offers similar contributions in centring emotion as a site for disciplinary growth. Ultimately, the articles in this collection and the methodologies their authors employ highlight the centrality of emotion to the work of person-centred archival scholarship. The validation and respectful harnessing of emotion are key features of the ongoing work to centre the person in archival studies and theory.  
+
+# The Articles  
+
+The authors who contribute to this special issue do so from a range of perspectives and positions. They include archival scholars, both established and emerging, as well as professional archivists with different levels of experience. The articles they contribute demonstrate that the term person centred can be applied across a range of perspectives and positions, too; it can be used to describe an archival function, a type of archives (e.g., personal collections), a broad methodological approach, or a moral or ethical stance.  
+
+The articles can be grouped in different ways; their approaches to what it means to be person centred, to identifying past and current harms, and to reimagining new ways to practice archives overlap and interweave. In our structuring of the issue, we have decided to present them as follows. First, there is a cluster of articles that, while not reducible to frameworks and models, each suggests frameworks for repair and reimagining: Kim Christen lays down a path toward reparative recordkeeping based in Indigenous models of kinship; Elizabeth Lomas et al. provide a structured framework for person-centred recordkeeping in out-of-home child-care contexts; and Nicola Laurent, Cate O’Neill, and Kirsten Wright describe an explicitly person-centred and trauma-informed approach to arrangement and description.  
+
+Each article in the next cluster introduces a new concept to archival discourse. Gracen Brilmyer asks readers to consider how “archival in/accessibility” is “emotionally expensive,” a term that expresses how the affective impacts of inaccessibility accumulate and compound – not only through the experience of navigating inaccessible physical spaces but also through the access policies of archival repositories and their expectations about how archival work is carried out. Krystal Payne brings together literature on harm reduction and on Indigenous relationality and resurgence to propose a new concept of “archival harm reduction,” which she suggests could guide settler archivists’ work toward reparative, participatory, and community-based praxis. In the third article in this cluster, Emily Guerrero explores the ways that gossip, often maligned as frivolous, can be employed as a “tactic of care” across different aspects of archival work, opening up space for prioritizing new kinds of relationships and narratives.  
+
+In the cluster that closes the issue, each article centres care for particular people. Articles by Henria Aton and by Natalia Bermúdez Qvortrup and Marta Lucía Giraldo offer analyses of archives created by the families of people who have been forcibly disappeared, calling attention to the absent presence of their creators and connecting the creation of personal archives to personal grief work, liberatory memory work, and collective political action. In each of these articles, an archival practice that is centred on a very particular person, a disappeared loved one, is shown to have impacts that reverberate beyond the personal, connecting personal grief and love to the pursuit of political justice. Drawing on recent discussions in archival literature about grief and love, and weaving together insights pulled from queer and feminist theory, anti-colonial methodologies, and new materialism, Claire Malek likewise focuses on the archives of an individual in her analysis of her work with the Lilian Bland Fonds. Malek ponders what it can mean to “do right by” an individual’s archives; her own experience as an archivist; and the ways the archives, their creator(s), and archivists are in relationship, developing in the process what she calls a “radical somatics of critical archival love.”  
+
+It is clear, even in this brief description of the articles, that these “clusters” are not mutually exclusive. For example, Malek introduces a new concept, “somatics of critical archival love,” while Payne suggests a framework for archival harm reduction. The articles work together in different combinations to suggest new ways of centring the person at the heart of the record, and we hope that the ordering we have chosen – which begins with kinship (Christen) and ends with love (Malek) – provides an initial pathway for your exploration.  
+
+# Remaining Questions  
+
+As we conclude this short introduction, we wish to acknowledge some aspects of person-centred archival theory and praxis that require more attention than this issue provides. First, it matters, often urgently, that we continue to ask who is envisioned as the “person” at the heart of person-centred approaches. Who, precisely, are we centring? When, and why? Across the articles in this issue, there is a common call to refocus archival theories and methods so that they acknowledge and provide care not only for the records archivists preserve but also for the people who create, keep, use, are documented in, and steward those records. Particular importance is placed, throughout the contributions, on those persons who have traditionally had less agency in recordkeeping or who have been historically marginalized in recordkeeping discourses and practices, including records subjects and others impacted by decisions about how to describe and provide access to records. As discussed above, the impacts of recordkeeping have often been harmful – especially for many Indigenous, Black, brown, queer, and disabled communities, for whom the archive has acted as a site of violence and erasure. Despite the focus in the articles in this issue (and beyond it) on the experiences and needs of people who have been excluded from and impacted by decisions archivists make about records, there remains a need to think critically about who is included – or not – in ideas about person-centred theory and practices. Brilmyer, for example, shows us how some people’s personhood is called into question in archives, through the design of spaces and through policies and procedures that disregard disabled peoples’ lived experiences. In its illumination of the many ways disabled people’s needs are deprioritized in archival spaces and practices, their article is a clear call to consider which people are centred in the development of archival theory and methodologies.  
+
+We also need to consider more fully a question, raised in both Christen’s and Malek’s articles, about “other-than-human beings.” Drawing on perspectives on personhood in the work of Daniel Heath Justice, Rosi Braidotti, and Donna Haraway, Malek ponders how archivists can “do right by [. . .] persons in their non-human forms.” In the context of the Lilian Bland Fonds, these non-human persons include animals as well as “the lands and waters present in the fonds.” Malek argues that, as archivists working with records documenting or benefiting from resource extraction and colonialism on lands stolen from Indigenous Peoples in a time of climate crisis, it is crucial that we engage with questions about “what it means to treat the records of a forest, a river, or an underground space as the records of persons.” Christen also reflects on the personhood of “non-humans,” including “material belongings, words uttered or sung, and/ or physical places on the lands.” Josiah, one of her interlocutors, describes cultural belongings and collections as relations and as kin; here, person-centred approaches to recordkeeping contend with the record as person.  
+
+There are other areas this special issue only gestures toward. In order to be able to conceptualize and actualize person-centred archival theory and praxis, it is important to consider all aspects of archival systems and processes. While certain aspects of archival work are addressed in articles in this special issue, some archival functions are not represented; these include archival appraisal, digital preservation, and the design of digital systems and interfaces. And although several of the articles here engage with archival practices that are anti-racist in intention and nature, this issue does not include an article that makes this area of scholarship its primary focus. Recognizing this gap, we want to highlight the work of other recent special issues that are explicitly anti-racist in their focus and that surface different modes of person-centred archival work and practice; these include the special issues of The Black Scholar on Black archival practice, edited by Tonia Sutherland and Zakiya Collier, and the forthcoming special issue of Journal of Critical Library and Information Studies on “the mattering of Black lives,” edited by Michelle Caswell, Safiya Umoja Noble, Sarah T. Roberts, and Tonia Sutherland.  
+
+# An Invitation  
+
+We close this introduction with a final reflection on what we hope this special issue can offer the evolving lens of person-centred archival theory and praxis. While we provide no firm or final definitions, approaches, or guidelines, we believe there is power and potential in bringing together ideas to try to do this work. In a field with practical application like archival studies, naming and defining a phenomenon or practice permits us to prioritize certain actions and types of decision-making. It allows us to create policies and procedures that embed and enact a person-centred approach to archival stewardship that is oriented toward addressing past harms, ameliorating unjust practices, and envisioning more liberatory archival futures. The authors included in this special issue – and the theorists, practitioners, archival users, and records subjects they evoke, cite, and centre – provide us with salient examples of how we address, ameliorate, and envision. Importantly, they all figure “the archive” as a set of relations that expands, shifts, and changes over time as different actors move in and out of view. Existing at the heart of all archival relations, of course, are the people who create records, use records, care for records, and appear in the stories and narratives we tell about records and their legacies. A person-centred approach to archival practice and theory recognizes this. It invites each of us in as part of the ever-growing web of relations that sustain archives and imbue them with meaning. We hope that the themes emerging from this issue provide an opening for building and elaborating the frameworks of archival care, responsibility, stewardship, and reflexivity we need to continue creating and enacting person-centred archival theory and practices. Starting with kin, ending with love, and filled throughout with care, this issue invites you to reflect on the theories and approaches that guide your own research and practice.  
+
+ed. Caswell, Punzalan, and Sangwand, special issue, Journal of Critical Library and Information Studies 1, no. 2 (2017), https://doi.org/10.24242/jclis.v1i2.50; Marika Cifor, “Affecting Relations: Introducing Affect Theory to Archival Discourse,” Archival Science 16, no. 1 (2016): 7–31, https://doi.org/10.1007/s10502-015-9261-5; Michelle Caswell, “Teaching to Dismantle White Supremacy in Archives,” Library Quarterly 87, no. 3 (2017): 222–35, https://doi.org/10.1086/692299; Anne J. Gilliland, “Archival and Recordkeeping Traditions in the Multiverse and Their Importance for Researching Situations and Situating Research,” in Research in the Archival Multiverse, ed. Anne J. Gilliland, Sue McKemmish, and Andrew J. Lau (Clayton, VIC: Monash University Publishing, 2017). For additional examination of the nuances, benefits, and potential drawbacks of naming, see, among others, Cherryl Armstrong and Sheryl I. Fontaine, “The Power of Naming: Names that Create and Define the Discipline,” WPA: Writing Program Administration 13, no. 1–2 (1989): 5–14; Viktor Smith, Naming and Framing: Understanding the Power of Words across Disciplines, Domains, and Modalities (London: Routledge, 2022).  
+
+
+BIOGRAPHY  Jennifer Douglas is an associate professor at the School of Information, University of British Columbia, on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nation, where she teaches courses on archival arrangement and description, personal and community archives, and research methodologies. Her research is focused on the creation and representation of personal archives.  
+
+BIOGRAPHY  Mya Ballin recently completed her dual master’s degrees in archival studies and library and information studies at the University of British Columbia, located on the traditional, ancestral, unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nation. She currently lives on the lands of the Ramaytush and Tamyen Ohlone in what is now known as Mountain View, California. In her research, Mya is interested in exploring how records inform and interplay with personal and cultural identity/ies, particularly by examining the relationships between government records and the lives of adoptees and Care Leavers. She is the recipient of the 2022 Archivaria Gordon Dodds Prize.  
+
+BIOGRAPHY  Jessica Lapp completed her PhD at the University of Toronto’s Faculty of Information in 2020. Her research conceptualizes feminist records creation, expanded notions of provenance and records attribution, and the creation and circulation of digital records of feminist organizing. She continues to live and work in Tkaronto, which for thousands of years has been the traditional land of the Huron-Wendat, the Seneca, and the Mississaugas of the Credit.  
+
+# Test
+my test
+
+## test
+
+### My test
+test 
+
+### test1
+
+test1
+----------- 1. preprocess footnote ============
+# Introduction  
+
+JENNIFER DOUGLAS, MYA BALLIN, and JESSICA LAPP  
+
+Archivaria 94 (Fall/Winter 2022), pp. 5-21  
+
+# Cite this article:  
+
+Douglas, Jennifer, Mya Ballin, and Jessica Lapp. “Introduction”. Archivaria 94   
+(Fall/Winter 2022): 5-21. https://archivaria.ca/index.php/archivaria/article/view/13861  
+
+# Introduction  
+
+jennifer douglas, mya ballin, and jessica lapp  
+
+A significant portion of archival practice involves working closely with the people who create, use, care for, and are documented in records, but until relatively recently, the archival field has rarely acknowledged in its theory, methodology, and pedagogy the degree to which it is – or should be – person centred. This special issue was conceived as part of an effort to highlight and consolidate developments toward a person-centred theory of archival care and to person-centred approaches to archival practice.  
+
+We define person-centred approaches in the context of archival theory and praxis broadly, as those that shift attention from the record, where it has traditionally been almost exclusively focused, to the people who create, keep, use, and are represented in records. It is important to us to acknowledge that person-centred archival theory and praxis are not altogether new. We do not claim to be the first archival studies scholars to explore ideas about the person at the heart of records and recordkeeping practices, nor do we wish to erase or downplay the work of professional archivists and records managers who have been actively working to respond to the needs of the people who create, use, and are represented in records. Exploring the concept of “firsting” in theory building and academic inquiry, Lauren Beck positions it as “the process through which a scholar presents an act, circumstance, or phenomenon generated by [a hu]man, or accomplishment to have occurred for the first time.” Max Liboiron describes firsting as endemic in academia, where students are trained to “stake out” their research areas and “claim” their territory. As Liboiron points out, these metaphors are rooted in coloniality. Firsting is a form of terra nullius. It presumes that nothing came before, and it effaces localized ways of knowing and building meaning.  
+
+Many of the ways we talk about information in Western contexts – concepts of access, discovery, and innovation – are likewise inherently rooted in coloniality. For example, scholars critical of Western systems of knowledge attribution have tied conversations about intellectual ownership and novelty to the colonial treatment of land and title. We are mindful of the editorial and scholarly urge to proclaim newness or to “stake a claim” to the term person centred. Our aim is instead to bring together a varied corpus of work that explores different ways of centring people in archives and records work in order to understand commonalities and differences in approaches and to bring person-centred theories and approaches into deliberate conversation with each other. Our hope is that this special issue can provide some framing for understanding – and continuing to explore and extend – what constitutes, or could constitute, person-centred archival theory and practice.  
+
+As part of this framing, we consider how archivists and archival scholars have already begun to centre people. Although the term person centred (or human centred) has only recently been used to describe archival approaches, the archival studies literature has, for the last decade especially, seen a tremendous shift in emphasis toward the people who participate in making, keeping, and using records and those who are impacted by these actions. Personcentred approaches are evident in and across recent archival scholarship, especially scholarship related to personal and community archives and in  
+
+
+
+scholarship that  draws on Indigenous, queer, feminist, anti-racist, anti- and  
+
+
+
+
+
+de-colonial, and disability studies. This body of work explores ideas about  
+
+
+
+# symbolic annihilation, radical empathy, affect, the body and embodiment, and ethics of care (and this is not an exhaustive or mutually exclusive list).  
+
+
+
+
+
+
+Person-centred approaches are also evident in archival practices that centre the perspectives of individuals and communities, especially those that have historically been harmed by archival work:20 for example, reparative description and redescription projects seek to address the impacts of racism and other forms of discrimination in finding aids and in records themselves; takedown policies on archival websites give individuals and communities some say in which materials are available to which publics; and trauma-informed approaches to a range of archival functions and relationships seek to support and empower people who use or are documented in records. Person-centred approaches have also begun to acknowledge the archives and records worker as a person. Work on  
+
+Smith, special issue, Journal of Critical Library and Information Studies 3, no. 2 (2021), https://doi.org/10.24242 /jclis.v3i2.124.  
+
+
+
+
+
+
+This very broad sketch of the contours of archival scholarship cannot possibly acknowledge all of the scholars and practices whose contributions could be considered person centred. Our tracing of the past is centred in our understanding that, to quote Sara Ahmed, “Citation is feminist memory. Citation is how we acknowledge our debt to those who came before. . . . Citations can be feminist bricks: they are the materials through which, from which, we create our dwellings.” The previous paragraph attempts to sketch the landscape on which the articles in this issue continue to build. We note here how metaphors of land and building – metaphors of settlerism – assert themselves so easily, and we recognize how problematically gestural our citation of decades’ worth of research in a single paragraph might seem. In Why Indigenous Literatures Matter, Daniel Heath Justice considers the way that “always citing the same small circle of voices is both harmful to the health of the field and disrespectful to the many fine scholars and writers whose work informs, enhances, challenges, and complicates our broader conversation. It’s also a political choice that too often silences the less empowered and enfranchised, who are often the ones with the most trenchant understandings.” While we have endeavoured to cite not only “the same small circle,” we have undoubtedly left out some voices; we are glad to note that the contributors to this special issue have also endeavoured to be generous and intentional in their citation practices and in their continued expansion of our understanding of what it means to consider people at the centre of a model of archival care.  
+
+This special issue began with a call for expressions of interest, and we received dozens of excellent responses. We quickly realized that the special issue would necessarily represent a selective view of person-centred archival theory and praxis; this is true of any special issue, it being impossible to capture all facets and angles of a topic in a single publication at a single time. Instead of seeing this as a limitation, we see it as another way of resisting claims to an authoritative or final definition of what it means to be person centred in archival theory and praxis. We see this special issue as an opening, an invitation.  
+
+# Key Themes  
+
+While the articles in this special issue approach the idea of person-centredness from different angles, reading them together surfaces a number of key themes that connect to and build on the scholarship and praxis noted above.  
+
+# Acknowledging Archival Harms and the Necessity of Reparation  
+
+Each of the included articles recognizes that traditional archival theory and the practices enacting it have caused real harm to individuals and communities. The articles identify harms resulting from descriptive practices that include harmful language (Lomas et al.); exclude specific stories, people, and events (Laurent, O’Neill, and Wright); and deny agency to those whom they impact (Brilmyer). Contributors also recognize a kind of harm that Krystal Payne identifies as specifically archival (Payne), which results from extractive mentalities and practices (Christen) such as “hungry listening,” the extraction of materials from communities, and paternalistic notions of what records are and what kinds of care they need. Silencing is another common form of archival harm, which, as our contributors demonstrate, happens in many ways, including through disappearance (Aton; Qvortrup and Giraldo), by design (Brilmyer), and in accordance with policies and conventions (Lomas et al.; Laurent, O’Neill, and Wright; Brilmyer; Guerrero).  
+
+The articles included in this special issue work to identify archival harms, but they do not stop there; instead, each emphasizes the importance of repairing harms through the development of new archival theories and methodologies. The authors in this issue write against the idea that reparation – and any practice that is truly person centred and liberatory – can be enacted through what Dorothy Berry calls “workflow adjustment”; instead, they recognize that archival reparations can only be achieved through fundamental changes to the ways we think about relationships and care.  
+
+# Importance of Relationality  
+
+Weaving its way through every piece in this special issue is the concept of relationality, which is variously explored in the relationships between records and record subjects (Laurent, O’Neill, and Wright; Lomas et al.); record subjects and archivists (Malek); archivists and records creators (Payne); archival workers and record-creating communities (Christen); and users and archival spaces (Brilmyer), archival practitioners (Guerrero), and record custodians (Aton; Qvortrup and Giraldo). In the context of this issue, relationality refers to the affective, emotional, and at times physical relationships that form between archival materials and the persons who activate them. Emerging from this rich field of inquiry are some core unifying concepts. Christen positions attribution and acknowledgement as necessarily relational. Building on Liboiron’s work, Christen states, “Citation is not only a mode of acknowledgement . . . it is a form of relation.” She asks us, as archival workers and practitioners, to build better listening practices that, rather than being “starved from relations,” are in full relationship with record-creating communities.  Relational responsibility is also surfaced through discussion of records stewardship by Lomas et al., Brilmyer, and Payne, who advocate for reciprocal and community-based models of caring for records and making them accessible over time. In exploring the recordkeeping practices that bind families to the memories of disappeared relatives, Aton and Qvortrup & Giraldo demonstrate a form of records stewardship that is rooted in justice, responsibility, and love.  
+
+The relational archival forces that emerge through this special issue demonstrate the wide-ranging and at times interrelated forms of care and feeling that are foundational to building and maintaining archival relationships. The authors do not offer a singular or unified approach to archival relational responsibility but, rather, demonstrate archival relationality as situated, localized, and essential to building archival meaning over time.  
+
+# Centring Emotions, Desires, and Experiences of Communities and Individuals  
+
+A third key theme that emerges from the different articles included in this special issue is a focus on the emotions, desires, and experiences of communities and individuals who are connected to – or in relationship with – records and each other. In different ways, the articles validate the idea that emotions and feelings should be central concerns for archivists, archival policy-makers, and institutions. Individually and collectively, the articles illustrate the important relationships between emotions, power(lessness), and possibility and, especially, the power of emotion to disrupt power and invoke possibility. Emotions, feelings, and lived experiences are also shown to be important elements of the work involved in righting archival wrongs. In contexts in which communities or phenomena are new to the realm of archival work, scholars often use emotional narratives and impacts to assert the validity of their work and the importance of training the archival eye on the communities in question. In these instances (Brilmyer; Aton; Qvortrup and Giraldo), we see how emotion is intricately tied to experiences of powerlessness, and we are encouraged to consider the depth of the contributions these experiences could make to archival work and scholarship. Some contributors extend extant bodies of work that assert the important relationships between communities and particular bodies of records by exploring the possible ways in which affective experiences might successfully be represented in archival practice (Lomas et al.; Laurent, O’Neil, and Wright; Payne; Christen). In the context of critically reflexive scholarship (Guerrero; Malek), archivists’ personal emotional experiences and the relational elements of their work become sites of possibility, where emotion can fuel imaginings about the future of work. Although centring a different source of emotion from the other strategies outlined above, this work offers similar contributions in centring emotion as a site for disciplinary growth. Ultimately, the articles in this collection and the methodologies their authors employ highlight the centrality of emotion to the work of person-centred archival scholarship. The validation and respectful harnessing of emotion are key features of the ongoing work to centre the person in archival studies and theory.  
+
+# The Articles  
+
+The authors who contribute to this special issue do so from a range of perspectives and positions. They include archival scholars, both established and emerging, as well as professional archivists with different levels of experience. The articles they contribute demonstrate that the term person centred can be applied across a range of perspectives and positions, too; it can be used to describe an archival function, a type of archives (e.g., personal collections), a broad methodological approach, or a moral or ethical stance.  
+
+The articles can be grouped in different ways; their approaches to what it means to be person centred, to identifying past and current harms, and to reimagining new ways to practice archives overlap and interweave. In our structuring of the issue, we have decided to present them as follows. First, there is a cluster of articles that, while not reducible to frameworks and models, each suggests frameworks for repair and reimagining: Kim Christen lays down a path toward reparative recordkeeping based in Indigenous models of kinship; Elizabeth Lomas et al. provide a structured framework for person-centred recordkeeping in out-of-home child-care contexts; and Nicola Laurent, Cate O’Neill, and Kirsten Wright describe an explicitly person-centred and trauma-informed approach to arrangement and description.  
+
+Each article in the next cluster introduces a new concept to archival discourse. Gracen Brilmyer asks readers to consider how “archival in/accessibility” is “emotionally expensive,” a term that expresses how the affective impacts of inaccessibility accumulate and compound – not only through the experience of navigating inaccessible physical spaces but also through the access policies of archival repositories and their expectations about how archival work is carried out. Krystal Payne brings together literature on harm reduction and on Indigenous relationality and resurgence to propose a new concept of “archival harm reduction,” which she suggests could guide settler archivists’ work toward reparative, participatory, and community-based praxis. In the third article in this cluster, Emily Guerrero explores the ways that gossip, often maligned as frivolous, can be employed as a “tactic of care” across different aspects of archival work, opening up space for prioritizing new kinds of relationships and narratives.  
+
+In the cluster that closes the issue, each article centres care for particular people. Articles by Henria Aton and by Natalia Bermúdez Qvortrup and Marta Lucía Giraldo offer analyses of archives created by the families of people who have been forcibly disappeared, calling attention to the absent presence of their creators and connecting the creation of personal archives to personal grief work, liberatory memory work, and collective political action. In each of these articles, an archival practice that is centred on a very particular person, a disappeared loved one, is shown to have impacts that reverberate beyond the personal, connecting personal grief and love to the pursuit of political justice. Drawing on recent discussions in archival literature about grief and love, and weaving together insights pulled from queer and feminist theory, anti-colonial methodologies, and new materialism, Claire Malek likewise focuses on the archives of an individual in her analysis of her work with the Lilian Bland Fonds. Malek ponders what it can mean to “do right by” an individual’s archives; her own experience as an archivist; and the ways the archives, their creator(s), and archivists are in relationship, developing in the process what she calls a “radical somatics of critical archival love.”  
+
+It is clear, even in this brief description of the articles, that these “clusters” are not mutually exclusive. For example, Malek introduces a new concept, “somatics of critical archival love,” while Payne suggests a framework for archival harm reduction. The articles work together in different combinations to suggest new ways of centring the person at the heart of the record, and we hope that the ordering we have chosen – which begins with kinship (Christen) and ends with love (Malek) – provides an initial pathway for your exploration.  
+
+# Remaining Questions  
+
+As we conclude this short introduction, we wish to acknowledge some aspects of person-centred archival theory and praxis that require more attention than this issue provides. First, it matters, often urgently, that we continue to ask who is envisioned as the “person” at the heart of person-centred approaches. Who, precisely, are we centring? When, and why? Across the articles in this issue, there is a common call to refocus archival theories and methods so that they acknowledge and provide care not only for the records archivists preserve but also for the people who create, keep, use, are documented in, and steward those records. Particular importance is placed, throughout the contributions, on those persons who have traditionally had less agency in recordkeeping or who have been historically marginalized in recordkeeping discourses and practices, including records subjects and others impacted by decisions about how to describe and provide access to records. As discussed above, the impacts of recordkeeping have often been harmful – especially for many Indigenous, Black, brown, queer, and disabled communities, for whom the archive has acted as a site of violence and erasure. Despite the focus in the articles in this issue (and beyond it) on the experiences and needs of people who have been excluded from and impacted by decisions archivists make about records, there remains a need to think critically about who is included – or not – in ideas about person-centred theory and practices. Brilmyer, for example, shows us how some people’s personhood is called into question in archives, through the design of spaces and through policies and procedures that disregard disabled peoples’ lived experiences. In its illumination of the many ways disabled people’s needs are deprioritized in archival spaces and practices, their article is a clear call to consider which people are centred in the development of archival theory and methodologies.  
+
+We also need to consider more fully a question, raised in both Christen’s and Malek’s articles, about “other-than-human beings.” Drawing on perspectives on personhood in the work of Daniel Heath Justice, Rosi Braidotti, and Donna Haraway, Malek ponders how archivists can “do right by [. . .] persons in their non-human forms.” In the context of the Lilian Bland Fonds, these non-human persons include animals as well as “the lands and waters present in the fonds.” Malek argues that, as archivists working with records documenting or benefiting from resource extraction and colonialism on lands stolen from Indigenous Peoples in a time of climate crisis, it is crucial that we engage with questions about “what it means to treat the records of a forest, a river, or an underground space as the records of persons.” Christen also reflects on the personhood of “non-humans,” including “material belongings, words uttered or sung, and/ or physical places on the lands.” Josiah, one of her interlocutors, describes cultural belongings and collections as relations and as kin; here, person-centred approaches to recordkeeping contend with the record as person.  
+
+There are other areas this special issue only gestures toward. In order to be able to conceptualize and actualize person-centred archival theory and praxis, it is important to consider all aspects of archival systems and processes. While certain aspects of archival work are addressed in articles in this special issue, some archival functions are not represented; these include archival appraisal, digital preservation, and the design of digital systems and interfaces. And although several of the articles here engage with archival practices that are anti-racist in intention and nature, this issue does not include an article that makes this area of scholarship its primary focus. Recognizing this gap, we want to highlight the work of other recent special issues that are explicitly anti-racist in their focus and that surface different modes of person-centred archival work and practice; these include the special issues of The Black Scholar on Black archival practice, edited by Tonia Sutherland and Zakiya Collier, and the forthcoming special issue of Journal of Critical Library and Information Studies on “the mattering of Black lives,” edited by Michelle Caswell, Safiya Umoja Noble, Sarah T. Roberts, and Tonia Sutherland.  
+
+# An Invitation  
+
+We close this introduction with a final reflection on what we hope this special issue can offer the evolving lens of person-centred archival theory and praxis. While we provide no firm or final definitions, approaches, or guidelines, we believe there is power and potential in bringing together ideas to try to do this work. In a field with practical application like archival studies, naming and defining a phenomenon or practice permits us to prioritize certain actions and types of decision-making. It allows us to create policies and procedures that embed and enact a person-centred approach to archival stewardship that is oriented toward addressing past harms, ameliorating unjust practices, and envisioning more liberatory archival futures. The authors included in this special issue – and the theorists, practitioners, archival users, and records subjects they evoke, cite, and centre – provide us with salient examples of how we address, ameliorate, and envision. Importantly, they all figure “the archive” as a set of relations that expands, shifts, and changes over time as different actors move in and out of view. Existing at the heart of all archival relations, of course, are the people who create records, use records, care for records, and appear in the stories and narratives we tell about records and their legacies. A person-centred approach to archival practice and theory recognizes this. It invites each of us in as part of the ever-growing web of relations that sustain archives and imbue them with meaning. We hope that the themes emerging from this issue provide an opening for building and elaborating the frameworks of archival care, responsibility, stewardship, and reflexivity we need to continue creating and enacting person-centred archival theory and practices. Starting with kin, ending with love, and filled throughout with care, this issue invites you to reflect on the theories and approaches that guide your own research and practice.  
+
+ed. Caswell, Punzalan, and Sangwand, special issue, Journal of Critical Library and Information Studies 1, no. 2 (2017), https://doi.org/10.24242/jclis.v1i2.50; Marika Cifor, “Affecting Relations: Introducing Affect Theory to Archival Discourse,” Archival Science 16, no. 1 (2016): 7–31, https://doi.org/10.1007/s10502-015-9261-5; Michelle Caswell, “Teaching to Dismantle White Supremacy in Archives,” Library Quarterly 87, no. 3 (2017): 222–35, https://doi.org/10.1086/692299; Anne J. Gilliland, “Archival and Recordkeeping Traditions in the Multiverse and Their Importance for Researching Situations and Situating Research,” in Research in the Archival Multiverse, ed. Anne J. Gilliland, Sue McKemmish, and Andrew J. Lau (Clayton, VIC: Monash University Publishing, 2017). For additional examination of the nuances, benefits, and potential drawbacks of naming, see, among others, Cherryl Armstrong and Sheryl I. Fontaine, “The Power of Naming: Names that Create and Define the Discipline,” WPA: Writing Program Administration 13, no. 1–2 (1989): 5–14; Viktor Smith, Naming and Framing: Understanding the Power of Words across Disciplines, Domains, and Modalities (London: Routledge, 2022).  
+
+
+BIOGRAPHY  Jennifer Douglas is an associate professor at the School of Information, University of British Columbia, on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nation, where she teaches courses on archival arrangement and description, personal and community archives, and research methodologies. Her research is focused on the creation and representation of personal archives.  
+
+BIOGRAPHY  Mya Ballin recently completed her dual master’s degrees in archival studies and library and information studies at the University of British Columbia, located on the traditional, ancestral, unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nation. She currently lives on the lands of the Ramaytush and Tamyen Ohlone in what is now known as Mountain View, California. In her research, Mya is interested in exploring how records inform and interplay with personal and cultural identity/ies, particularly by examining the relationships between government records and the lives of adoptees and Care Leavers. She is the recipient of the 2022 Archivaria Gordon Dodds Prize.  
+
+BIOGRAPHY  Jessica Lapp completed her PhD at the University of Toronto’s Faculty of Information in 2020. Her research conceptualizes feminist records creation, expanded notions of provenance and records attribution, and the creation and circulation of digital records of feminist organizing. She continues to live and work in Tkaronto, which for thousands of years has been the traditional land of the Huron-Wendat, the Seneca, and the Mississaugas of the Credit.  
+
+# Test
+my test
+
+## test
+
+### My test
+test 
+
+### test1
+
+test1
+Section 1:
+# Introduction  
+
+JENNIFER DOUGLAS, MYA BALLIN, and JESSICA LAPP  
+
+Archivaria 94 (Fall/Winter 2022), pp. 5-21
+------------------------------
+Paragraph 0:
+# Introduction
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+JENNIFER DOUGLAS, MYA BALLIN, and JESSICA LAPP
+pppppppppppppppppppppppppppppp
+Paragraph 2:
+Archivaria 94 (Fall/Winter 2022), pp. 5-21
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 2:
+# Cite this article:  
+
+Douglas, Jennifer, Mya Ballin, and Jessica Lapp. “Introduction”. Archivaria 94   
+(Fall/Winter 2022): 5-21. https://archivaria.ca/index.php/archivaria/article/view/13861
+------------------------------
+Paragraph 0:
+# Cite this article:
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+Douglas, Jennifer, Mya Ballin, and Jessica Lapp. “Introduction”. Archivaria 94 (Fall/Winter 2022): 5-21. https://archivaria.ca/index.php/archivaria/article/view/13861
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 3:
+# Introduction  
+
+jennifer douglas, mya ballin, and jessica lapp  
+
+A significant portion of archival practice involves working closely with the people who create, use, care for, and are documented in records, but until relatively recently, the archival field has rarely acknowledged in its theory, methodology, and pedagogy the degree to which it is – or should be – person centred. This special issue was conceived as part of an effort to highlight and consolidate developments toward a person-centred theory of archival care and to person-centred approaches to archival practice.  
+
+We define person-centred approaches in the context of archival theory and praxis broadly, as those that shift attention from the record, where it has traditionally been almost exclusively focused, to the people who create, keep, use, and are represented in records. It is important to us to acknowledge that person-centred archival theory and praxis are not altogether new. We do not claim to be the first archival studies scholars to explore ideas about the person at the heart of records and recordkeeping practices, nor do we wish to erase or downplay the work of professional archivists and records managers who have been actively working to respond to the needs of the people who create, use, and are represented in records. Exploring the concept of “firsting” in theory building and academic inquiry, Lauren Beck positions it as “the process through which a scholar presents an act, circumstance, or phenomenon generated by [a hu]man, or accomplishment to have occurred for the first time.” Max Liboiron describes firsting as endemic in academia, where students are trained to “stake out” their research areas and “claim” their territory. As Liboiron points out, these metaphors are rooted in coloniality. Firsting is a form of terra nullius. It presumes that nothing came before, and it effaces localized ways of knowing and building meaning.  
+
+Many of the ways we talk about information in Western contexts – concepts of access, discovery, and innovation – are likewise inherently rooted in coloniality. For example, scholars critical of Western systems of knowledge attribution have tied conversations about intellectual ownership and novelty to the colonial treatment of land and title. We are mindful of the editorial and scholarly urge to proclaim newness or to “stake a claim” to the term person centred. Our aim is instead to bring together a varied corpus of work that explores different ways of centring people in archives and records work in order to understand commonalities and differences in approaches and to bring person-centred theories and approaches into deliberate conversation with each other. Our hope is that this special issue can provide some framing for understanding – and continuing to explore and extend – what constitutes, or could constitute, person-centred archival theory and practice.  
+
+As part of this framing, we consider how archivists and archival scholars have already begun to centre people. Although the term person centred (or human centred) has only recently been used to describe archival approaches, the archival studies literature has, for the last decade especially, seen a tremendous shift in emphasis toward the people who participate in making, keeping, and using records and those who are impacted by these actions. Personcentred approaches are evident in and across recent archival scholarship, especially scholarship related to personal and community archives and in  
+
+
+
+scholarship that  draws on Indigenous, queer, feminist, anti-racist, anti- and  
+
+
+
+
+
+de-colonial, and disability studies. This body of work explores ideas about  
+
+
+
+# symbolic annihilation, radical empathy, affect, the body and embodiment, and ethics of care (and this is not an exhaustive or mutually exclusive list).  
+
+
+
+
+
+
+Person-centred approaches are also evident in archival practices that centre the perspectives of individuals and communities, especially those that have historically been harmed by archival work:20 for example, reparative description and redescription projects seek to address the impacts of racism and other forms of discrimination in finding aids and in records themselves; takedown policies on archival websites give individuals and communities some say in which materials are available to which publics; and trauma-informed approaches to a range of archival functions and relationships seek to support and empower people who use or are documented in records. Person-centred approaches have also begun to acknowledge the archives and records worker as a person. Work on  
+
+Smith, special issue, Journal of Critical Library and Information Studies 3, no. 2 (2021), https://doi.org/10.24242 /jclis.v3i2.124.  
+
+
+
+
+
+
+This very broad sketch of the contours of archival scholarship cannot possibly acknowledge all of the scholars and practices whose contributions could be considered person centred. Our tracing of the past is centred in our understanding that, to quote Sara Ahmed, “Citation is feminist memory. Citation is how we acknowledge our debt to those who came before. . . . Citations can be feminist bricks: they are the materials through which, from which, we create our dwellings.” The previous paragraph attempts to sketch the landscape on which the articles in this issue continue to build. We note here how metaphors of land and building – metaphors of settlerism – assert themselves so easily, and we recognize how problematically gestural our citation of decades’ worth of research in a single paragraph might seem. In Why Indigenous Literatures Matter, Daniel Heath Justice considers the way that “always citing the same small circle of voices is both harmful to the health of the field and disrespectful to the many fine scholars and writers whose work informs, enhances, challenges, and complicates our broader conversation. It’s also a political choice that too often silences the less empowered and enfranchised, who are often the ones with the most trenchant understandings.” While we have endeavoured to cite not only “the same small circle,” we have undoubtedly left out some voices; we are glad to note that the contributors to this special issue have also endeavoured to be generous and intentional in their citation practices and in their continued expansion of our understanding of what it means to consider people at the centre of a model of archival care.  
+
+This special issue began with a call for expressions of interest, and we received dozens of excellent responses. We quickly realized that the special issue would necessarily represent a selective view of person-centred archival theory and praxis; this is true of any special issue, it being impossible to capture all facets and angles of a topic in a single publication at a single time. Instead of seeing this as a limitation, we see it as another way of resisting claims to an authoritative or final definition of what it means to be person centred in archival theory and praxis. We see this special issue as an opening, an invitation.
+------------------------------
+Paragraph 0:
+# Introduction
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+jennifer douglas, mya ballin, and jessica lapp
+pppppppppppppppppppppppppppppp
+Paragraph 2:
+A significant portion of archival practice involves working closely with the people who create, use, care for, and are documented in records, but until relatively recently, the archival field has rarely acknowledged in its theory, methodology, and pedagogy the degree to which it is – or should be – person centred. This special issue was conceived as part of an effort to highlight and consolidate developments toward a person-centred theory of archival care and to person-centred approaches to archival practice.
+pppppppppppppppppppppppppppppp
+Paragraph 3:
+We define person-centred approaches in the context of archival theory and praxis broadly, as those that shift attention from the record, where it has traditionally been almost exclusively focused, to the people who create, keep, use, and are represented in records. It is important to us to acknowledge that person-centred archival theory and praxis are not altogether new. We do not claim to be the first archival studies scholars to explore ideas about the person at the heart of records and recordkeeping practices, nor do we wish to erase or downplay the work of professional archivists and records managers who have been actively working to respond to the needs of the people who create, use, and are represented in records. Exploring the concept of “firsting” in theory building and academic inquiry, Lauren Beck positions it as “the process through which a scholar presents an act, circumstance, or phenomenon generated by [a hu]man, or accomplishment to have occurred for the first time.” Max Liboiron describes firsting as endemic in academia, where students are trained to “stake out” their research areas and “claim” their territory. As Liboiron points out, these metaphors are rooted in coloniality. Firsting is a form of terra nullius. It presumes that nothing came before, and it effaces localized ways of knowing and building meaning.
+pppppppppppppppppppppppppppppp
+Paragraph 4:
+Many of the ways we talk about information in Western contexts – concepts of access, discovery, and innovation – are likewise inherently rooted in coloniality. For example, scholars critical of Western systems of knowledge attribution have tied conversations about intellectual ownership and novelty to the colonial treatment of land and title. We are mindful of the editorial and scholarly urge to proclaim newness or to “stake a claim” to the term person centred. Our aim is instead to bring together a varied corpus of work that explores different ways of centring people in archives and records work in order to understand commonalities and differences in approaches and to bring person-centred theories and approaches into deliberate conversation with each other. Our hope is that this special issue can provide some framing for understanding – and continuing to explore and extend – what constitutes, or could constitute, person-centred archival theory and practice.
+pppppppppppppppppppppppppppppp
+Paragraph 5:
+As part of this framing, we consider how archivists and archival scholars have already begun to centre people. Although the term person centred (or human centred) has only recently been used to describe archival approaches, the archival studies literature has, for the last decade especially, seen a tremendous shift in emphasis toward the people who participate in making, keeping, and using records and those who are impacted by these actions. Personcentred approaches are evident in and across recent archival scholarship, especially scholarship related to personal and community archives and in scholarship that draws on Indigenous, queer, feminist, anti-racist, anti- and de-colonial, and disability studies. This body of work explores ideas about # symbolic annihilation, radical empathy, affect, the body and embodiment, and ethics of care (and this is not an exhaustive or mutually exclusive list).
+pppppppppppppppppppppppppppppp
+Paragraph 6:
+Person-centred approaches are also evident in archival practices that centre the perspectives of individuals and communities, especially those that have historically been harmed by archival work:20 for example, reparative description and redescription projects seek to address the impacts of racism and other forms of discrimination in finding aids and in records themselves; takedown policies on archival websites give individuals and communities some say in which materials are available to which publics; and trauma-informed approaches to a range of archival functions and relationships seek to support and empower people who use or are documented in records. Person-centred approaches have also begun to acknowledge the archives and records worker as a person. Work on
+pppppppppppppppppppppppppppppp
+Paragraph 7:
+Smith, special issue, Journal of Critical Library and Information Studies 3, no. 2 (2021), https://doi.org/10.24242 /jclis.v3i2.124.
+pppppppppppppppppppppppppppppp
+Paragraph 8:
+This very broad sketch of the contours of archival scholarship cannot possibly acknowledge all of the scholars and practices whose contributions could be considered person centred. Our tracing of the past is centred in our understanding that, to quote Sara Ahmed, “Citation is feminist memory. Citation is how we acknowledge our debt to those who came before. . . . Citations can be feminist bricks: they are the materials through which, from which, we create our dwellings.” The previous paragraph attempts to sketch the landscape on which the articles in this issue continue to build. We note here how metaphors of land and building – metaphors of settlerism – assert themselves so easily, and we recognize how problematically gestural our citation of decades’ worth of research in a single paragraph might seem. In Why Indigenous Literatures Matter, Daniel Heath Justice considers the way that “always citing the same small circle of voices is both harmful to the health of the field and disrespectful to the many fine scholars and writers whose work informs, enhances, challenges, and complicates our broader conversation. It’s also a political choice that too often silences the less empowered and enfranchised, who are often the ones with the most trenchant understandings.” While we have endeavoured to cite not only “the same small circle,” we have undoubtedly left out some voices; we are glad to note that the contributors to this special issue have also endeavoured to be generous and intentional in their citation practices and in their continued expansion of our understanding of what it means to consider people at the centre of a model of archival care.
+pppppppppppppppppppppppppppppp
+Paragraph 9:
+This special issue began with a call for expressions of interest, and we received dozens of excellent responses. We quickly realized that the special issue would necessarily represent a selective view of person-centred archival theory and praxis; this is true of any special issue, it being impossible to capture all facets and angles of a topic in a single publication at a single time. Instead of seeing this as a limitation, we see it as another way of resisting claims to an authoritative or final definition of what it means to be person centred in archival theory and praxis. We see this special issue as an opening, an invitation.
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 4:
+# Key Themes  
+
+While the articles in this special issue approach the idea of person-centredness from different angles, reading them together surfaces a number of key themes that connect to and build on the scholarship and praxis noted above.
+------------------------------
+Paragraph 0:
+# Key Themes
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+While the articles in this special issue approach the idea of person-centredness from different angles, reading them together surfaces a number of key themes that connect to and build on the scholarship and praxis noted above.
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 5:
+# Acknowledging Archival Harms and the Necessity of Reparation  
+
+Each of the included articles recognizes that traditional archival theory and the practices enacting it have caused real harm to individuals and communities. The articles identify harms resulting from descriptive practices that include harmful language (Lomas et al.); exclude specific stories, people, and events (Laurent, O’Neill, and Wright); and deny agency to those whom they impact (Brilmyer). Contributors also recognize a kind of harm that Krystal Payne identifies as specifically archival (Payne), which results from extractive mentalities and practices (Christen) such as “hungry listening,” the extraction of materials from communities, and paternalistic notions of what records are and what kinds of care they need. Silencing is another common form of archival harm, which, as our contributors demonstrate, happens in many ways, including through disappearance (Aton; Qvortrup and Giraldo), by design (Brilmyer), and in accordance with policies and conventions (Lomas et al.; Laurent, O’Neill, and Wright; Brilmyer; Guerrero).  
+
+The articles included in this special issue work to identify archival harms, but they do not stop there; instead, each emphasizes the importance of repairing harms through the development of new archival theories and methodologies. The authors in this issue write against the idea that reparation – and any practice that is truly person centred and liberatory – can be enacted through what Dorothy Berry calls “workflow adjustment”; instead, they recognize that archival reparations can only be achieved through fundamental changes to the ways we think about relationships and care.
+------------------------------
+Paragraph 0:
+# Acknowledging Archival Harms and the Necessity of Reparation
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+Each of the included articles recognizes that traditional archival theory and the practices enacting it have caused real harm to individuals and communities. The articles identify harms resulting from descriptive practices that include harmful language (Lomas et al.); exclude specific stories, people, and events (Laurent, O’Neill, and Wright); and deny agency to those whom they impact (Brilmyer). Contributors also recognize a kind of harm that Krystal Payne identifies as specifically archival (Payne), which results from extractive mentalities and practices (Christen) such as “hungry listening,” the extraction of materials from communities, and paternalistic notions of what records are and what kinds of care they need. Silencing is another common form of archival harm, which, as our contributors demonstrate, happens in many ways, including through disappearance (Aton; Qvortrup and Giraldo), by design (Brilmyer), and in accordance with policies and conventions (Lomas et al.; Laurent, O’Neill, and Wright; Brilmyer; Guerrero).
+pppppppppppppppppppppppppppppp
+Paragraph 2:
+The articles included in this special issue work to identify archival harms, but they do not stop there; instead, each emphasizes the importance of repairing harms through the development of new archival theories and methodologies. The authors in this issue write against the idea that reparation – and any practice that is truly person centred and liberatory – can be enacted through what Dorothy Berry calls “workflow adjustment”; instead, they recognize that archival reparations can only be achieved through fundamental changes to the ways we think about relationships and care.
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 6:
+# Importance of Relationality  
+
+Weaving its way through every piece in this special issue is the concept of relationality, which is variously explored in the relationships between records and record subjects (Laurent, O’Neill, and Wright; Lomas et al.); record subjects and archivists (Malek); archivists and records creators (Payne); archival workers and record-creating communities (Christen); and users and archival spaces (Brilmyer), archival practitioners (Guerrero), and record custodians (Aton; Qvortrup and Giraldo). In the context of this issue, relationality refers to the affective, emotional, and at times physical relationships that form between archival materials and the persons who activate them. Emerging from this rich field of inquiry are some core unifying concepts. Christen positions attribution and acknowledgement as necessarily relational. Building on Liboiron’s work, Christen states, “Citation is not only a mode of acknowledgement . . . it is a form of relation.” She asks us, as archival workers and practitioners, to build better listening practices that, rather than being “starved from relations,” are in full relationship with record-creating communities.  Relational responsibility is also surfaced through discussion of records stewardship by Lomas et al., Brilmyer, and Payne, who advocate for reciprocal and community-based models of caring for records and making them accessible over time. In exploring the recordkeeping practices that bind families to the memories of disappeared relatives, Aton and Qvortrup & Giraldo demonstrate a form of records stewardship that is rooted in justice, responsibility, and love.  
+
+The relational archival forces that emerge through this special issue demonstrate the wide-ranging and at times interrelated forms of care and feeling that are foundational to building and maintaining archival relationships. The authors do not offer a singular or unified approach to archival relational responsibility but, rather, demonstrate archival relationality as situated, localized, and essential to building archival meaning over time.
+------------------------------
+Paragraph 0:
+# Importance of Relationality
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+Weaving its way through every piece in this special issue is the concept of relationality, which is variously explored in the relationships between records and record subjects (Laurent, O’Neill, and Wright; Lomas et al.); record subjects and archivists (Malek); archivists and records creators (Payne); archival workers and record-creating communities (Christen); and users and archival spaces (Brilmyer), archival practitioners (Guerrero), and record custodians (Aton; Qvortrup and Giraldo). In the context of this issue, relationality refers to the affective, emotional, and at times physical relationships that form between archival materials and the persons who activate them. Emerging from this rich field of inquiry are some core unifying concepts. Christen positions attribution and acknowledgement as necessarily relational. Building on Liboiron’s work, Christen states, “Citation is not only a mode of acknowledgement . . . it is a form of relation.” She asks us, as archival workers and practitioners, to build better listening practices that, rather than being “starved from relations,” are in full relationship with record-creating communities. Relational responsibility is also surfaced through discussion of records stewardship by Lomas et al., Brilmyer, and Payne, who advocate for reciprocal and community-based models of caring for records and making them accessible over time. In exploring the recordkeeping practices that bind families to the memories of disappeared relatives, Aton and Qvortrup & Giraldo demonstrate a form of records stewardship that is rooted in justice, responsibility, and love.
+pppppppppppppppppppppppppppppp
+Paragraph 2:
+The relational archival forces that emerge through this special issue demonstrate the wide-ranging and at times interrelated forms of care and feeling that are foundational to building and maintaining archival relationships. The authors do not offer a singular or unified approach to archival relational responsibility but, rather, demonstrate archival relationality as situated, localized, and essential to building archival meaning over time.
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 7:
+# Centring Emotions, Desires, and Experiences of Communities and Individuals  
+
+A third key theme that emerges from the different articles included in this special issue is a focus on the emotions, desires, and experiences of communities and individuals who are connected to – or in relationship with – records and each other. In different ways, the articles validate the idea that emotions and feelings should be central concerns for archivists, archival policy-makers, and institutions. Individually and collectively, the articles illustrate the important relationships between emotions, power(lessness), and possibility and, especially, the power of emotion to disrupt power and invoke possibility. Emotions, feelings, and lived experiences are also shown to be important elements of the work involved in righting archival wrongs. In contexts in which communities or phenomena are new to the realm of archival work, scholars often use emotional narratives and impacts to assert the validity of their work and the importance of training the archival eye on the communities in question. In these instances (Brilmyer; Aton; Qvortrup and Giraldo), we see how emotion is intricately tied to experiences of powerlessness, and we are encouraged to consider the depth of the contributions these experiences could make to archival work and scholarship. Some contributors extend extant bodies of work that assert the important relationships between communities and particular bodies of records by exploring the possible ways in which affective experiences might successfully be represented in archival practice (Lomas et al.; Laurent, O’Neil, and Wright; Payne; Christen). In the context of critically reflexive scholarship (Guerrero; Malek), archivists’ personal emotional experiences and the relational elements of their work become sites of possibility, where emotion can fuel imaginings about the future of work. Although centring a different source of emotion from the other strategies outlined above, this work offers similar contributions in centring emotion as a site for disciplinary growth. Ultimately, the articles in this collection and the methodologies their authors employ highlight the centrality of emotion to the work of person-centred archival scholarship. The validation and respectful harnessing of emotion are key features of the ongoing work to centre the person in archival studies and theory.
+------------------------------
+Paragraph 0:
+# Centring Emotions, Desires, and Experiences of Communities and Individuals
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+A third key theme that emerges from the different articles included in this special issue is a focus on the emotions, desires, and experiences of communities and individuals who are connected to – or in relationship with – records and each other. In different ways, the articles validate the idea that emotions and feelings should be central concerns for archivists, archival policy-makers, and institutions. Individually and collectively, the articles illustrate the important relationships between emotions, power(lessness), and possibility and, especially, the power of emotion to disrupt power and invoke possibility. Emotions, feelings, and lived experiences are also shown to be important elements of the work involved in righting archival wrongs. In contexts in which communities or phenomena are new to the realm of archival work, scholars often use emotional narratives and impacts to assert the validity of their work and the importance of training the archival eye on the communities in question. In these instances (Brilmyer; Aton; Qvortrup and Giraldo), we see how emotion is intricately tied to experiences of powerlessness, and we are encouraged to consider the depth of the contributions these experiences could make to archival work and scholarship. Some contributors extend extant bodies of work that assert the important relationships between communities and particular bodies of records by exploring the possible ways in which affective experiences might successfully be represented in archival practice (Lomas et al.; Laurent, O’Neil, and Wright; Payne; Christen). In the context of critically reflexive scholarship (Guerrero; Malek), archivists’ personal emotional experiences and the relational elements of their work become sites of possibility, where emotion can fuel imaginings about the future of work. Although centring a different source of emotion from the other strategies outlined above, this work offers similar contributions in centring emotion as a site for disciplinary growth. Ultimately, the articles in this collection and the methodologies their authors employ highlight the centrality of emotion to the work of person-centred archival scholarship. The validation and respectful harnessing of emotion are key features of the ongoing work to centre the person in archival studies and theory.
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 8:
+# The Articles  
+
+The authors who contribute to this special issue do so from a range of perspectives and positions. They include archival scholars, both established and emerging, as well as professional archivists with different levels of experience. The articles they contribute demonstrate that the term person centred can be applied across a range of perspectives and positions, too; it can be used to describe an archival function, a type of archives (e.g., personal collections), a broad methodological approach, or a moral or ethical stance.  
+
+The articles can be grouped in different ways; their approaches to what it means to be person centred, to identifying past and current harms, and to reimagining new ways to practice archives overlap and interweave. In our structuring of the issue, we have decided to present them as follows. First, there is a cluster of articles that, while not reducible to frameworks and models, each suggests frameworks for repair and reimagining: Kim Christen lays down a path toward reparative recordkeeping based in Indigenous models of kinship; Elizabeth Lomas et al. provide a structured framework for person-centred recordkeeping in out-of-home child-care contexts; and Nicola Laurent, Cate O’Neill, and Kirsten Wright describe an explicitly person-centred and trauma-informed approach to arrangement and description.  
+
+Each article in the next cluster introduces a new concept to archival discourse. Gracen Brilmyer asks readers to consider how “archival in/accessibility” is “emotionally expensive,” a term that expresses how the affective impacts of inaccessibility accumulate and compound – not only through the experience of navigating inaccessible physical spaces but also through the access policies of archival repositories and their expectations about how archival work is carried out. Krystal Payne brings together literature on harm reduction and on Indigenous relationality and resurgence to propose a new concept of “archival harm reduction,” which she suggests could guide settler archivists’ work toward reparative, participatory, and community-based praxis. In the third article in this cluster, Emily Guerrero explores the ways that gossip, often maligned as frivolous, can be employed as a “tactic of care” across different aspects of archival work, opening up space for prioritizing new kinds of relationships and narratives.  
+
+In the cluster that closes the issue, each article centres care for particular people. Articles by Henria Aton and by Natalia Bermúdez Qvortrup and Marta Lucía Giraldo offer analyses of archives created by the families of people who have been forcibly disappeared, calling attention to the absent presence of their creators and connecting the creation of personal archives to personal grief work, liberatory memory work, and collective political action. In each of these articles, an archival practice that is centred on a very particular person, a disappeared loved one, is shown to have impacts that reverberate beyond the personal, connecting personal grief and love to the pursuit of political justice. Drawing on recent discussions in archival literature about grief and love, and weaving together insights pulled from queer and feminist theory, anti-colonial methodologies, and new materialism, Claire Malek likewise focuses on the archives of an individual in her analysis of her work with the Lilian Bland Fonds. Malek ponders what it can mean to “do right by” an individual’s archives; her own experience as an archivist; and the ways the archives, their creator(s), and archivists are in relationship, developing in the process what she calls a “radical somatics of critical archival love.”  
+
+It is clear, even in this brief description of the articles, that these “clusters” are not mutually exclusive. For example, Malek introduces a new concept, “somatics of critical archival love,” while Payne suggests a framework for archival harm reduction. The articles work together in different combinations to suggest new ways of centring the person at the heart of the record, and we hope that the ordering we have chosen – which begins with kinship (Christen) and ends with love (Malek) – provides an initial pathway for your exploration.
+------------------------------
+Paragraph 0:
+# The Articles
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+The authors who contribute to this special issue do so from a range of perspectives and positions. They include archival scholars, both established and emerging, as well as professional archivists with different levels of experience. The articles they contribute demonstrate that the term person centred can be applied across a range of perspectives and positions, too; it can be used to describe an archival function, a type of archives (e.g., personal collections), a broad methodological approach, or a moral or ethical stance.
+pppppppppppppppppppppppppppppp
+Paragraph 2:
+The articles can be grouped in different ways; their approaches to what it means to be person centred, to identifying past and current harms, and to reimagining new ways to practice archives overlap and interweave. In our structuring of the issue, we have decided to present them as follows. First, there is a cluster of articles that, while not reducible to frameworks and models, each suggests frameworks for repair and reimagining: Kim Christen lays down a path toward reparative recordkeeping based in Indigenous models of kinship; Elizabeth Lomas et al. provide a structured framework for person-centred recordkeeping in out-of-home child-care contexts; and Nicola Laurent, Cate O’Neill, and Kirsten Wright describe an explicitly person-centred and trauma-informed approach to arrangement and description.
+pppppppppppppppppppppppppppppp
+Paragraph 3:
+Each article in the next cluster introduces a new concept to archival discourse. Gracen Brilmyer asks readers to consider how “archival in/accessibility” is “emotionally expensive,” a term that expresses how the affective impacts of inaccessibility accumulate and compound – not only through the experience of navigating inaccessible physical spaces but also through the access policies of archival repositories and their expectations about how archival work is carried out. Krystal Payne brings together literature on harm reduction and on Indigenous relationality and resurgence to propose a new concept of “archival harm reduction,” which she suggests could guide settler archivists’ work toward reparative, participatory, and community-based praxis. In the third article in this cluster, Emily Guerrero explores the ways that gossip, often maligned as frivolous, can be employed as a “tactic of care” across different aspects of archival work, opening up space for prioritizing new kinds of relationships and narratives.
+pppppppppppppppppppppppppppppp
+Paragraph 4:
+In the cluster that closes the issue, each article centres care for particular people. Articles by Henria Aton and by Natalia Bermúdez Qvortrup and Marta Lucía Giraldo offer analyses of archives created by the families of people who have been forcibly disappeared, calling attention to the absent presence of their creators and connecting the creation of personal archives to personal grief work, liberatory memory work, and collective political action. In each of these articles, an archival practice that is centred on a very particular person, a disappeared loved one, is shown to have impacts that reverberate beyond the personal, connecting personal grief and love to the pursuit of political justice. Drawing on recent discussions in archival literature about grief and love, and weaving together insights pulled from queer and feminist theory, anti-colonial methodologies, and new materialism, Claire Malek likewise focuses on the archives of an individual in her analysis of her work with the Lilian Bland Fonds. Malek ponders what it can mean to “do right by” an individual’s archives; her own experience as an archivist; and the ways the archives, their creator(s), and archivists are in relationship, developing in the process what she calls a “radical somatics of critical archival love.”
+pppppppppppppppppppppppppppppp
+Paragraph 5:
+It is clear, even in this brief description of the articles, that these “clusters” are not mutually exclusive. For example, Malek introduces a new concept, “somatics of critical archival love,” while Payne suggests a framework for archival harm reduction. The articles work together in different combinations to suggest new ways of centring the person at the heart of the record, and we hope that the ordering we have chosen – which begins with kinship (Christen) and ends with love (Malek) – provides an initial pathway for your exploration.
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 9:
+# Remaining Questions  
+
+As we conclude this short introduction, we wish to acknowledge some aspects of person-centred archival theory and praxis that require more attention than this issue provides. First, it matters, often urgently, that we continue to ask who is envisioned as the “person” at the heart of person-centred approaches. Who, precisely, are we centring? When, and why? Across the articles in this issue, there is a common call to refocus archival theories and methods so that they acknowledge and provide care not only for the records archivists preserve but also for the people who create, keep, use, are documented in, and steward those records. Particular importance is placed, throughout the contributions, on those persons who have traditionally had less agency in recordkeeping or who have been historically marginalized in recordkeeping discourses and practices, including records subjects and others impacted by decisions about how to describe and provide access to records. As discussed above, the impacts of recordkeeping have often been harmful – especially for many Indigenous, Black, brown, queer, and disabled communities, for whom the archive has acted as a site of violence and erasure. Despite the focus in the articles in this issue (and beyond it) on the experiences and needs of people who have been excluded from and impacted by decisions archivists make about records, there remains a need to think critically about who is included – or not – in ideas about person-centred theory and practices. Brilmyer, for example, shows us how some people’s personhood is called into question in archives, through the design of spaces and through policies and procedures that disregard disabled peoples’ lived experiences. In its illumination of the many ways disabled people’s needs are deprioritized in archival spaces and practices, their article is a clear call to consider which people are centred in the development of archival theory and methodologies.  
+
+We also need to consider more fully a question, raised in both Christen’s and Malek’s articles, about “other-than-human beings.” Drawing on perspectives on personhood in the work of Daniel Heath Justice, Rosi Braidotti, and Donna Haraway, Malek ponders how archivists can “do right by [. . .] persons in their non-human forms.” In the context of the Lilian Bland Fonds, these non-human persons include animals as well as “the lands and waters present in the fonds.” Malek argues that, as archivists working with records documenting or benefiting from resource extraction and colonialism on lands stolen from Indigenous Peoples in a time of climate crisis, it is crucial that we engage with questions about “what it means to treat the records of a forest, a river, or an underground space as the records of persons.” Christen also reflects on the personhood of “non-humans,” including “material belongings, words uttered or sung, and/ or physical places on the lands.” Josiah, one of her interlocutors, describes cultural belongings and collections as relations and as kin; here, person-centred approaches to recordkeeping contend with the record as person.  
+
+There are other areas this special issue only gestures toward. In order to be able to conceptualize and actualize person-centred archival theory and praxis, it is important to consider all aspects of archival systems and processes. While certain aspects of archival work are addressed in articles in this special issue, some archival functions are not represented; these include archival appraisal, digital preservation, and the design of digital systems and interfaces. And although several of the articles here engage with archival practices that are anti-racist in intention and nature, this issue does not include an article that makes this area of scholarship its primary focus. Recognizing this gap, we want to highlight the work of other recent special issues that are explicitly anti-racist in their focus and that surface different modes of person-centred archival work and practice; these include the special issues of The Black Scholar on Black archival practice, edited by Tonia Sutherland and Zakiya Collier, and the forthcoming special issue of Journal of Critical Library and Information Studies on “the mattering of Black lives,” edited by Michelle Caswell, Safiya Umoja Noble, Sarah T. Roberts, and Tonia Sutherland.
+------------------------------
+Paragraph 0:
+# Remaining Questions
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+As we conclude this short introduction, we wish to acknowledge some aspects of person-centred archival theory and praxis that require more attention than this issue provides. First, it matters, often urgently, that we continue to ask who is envisioned as the “person” at the heart of person-centred approaches. Who, precisely, are we centring? When, and why? Across the articles in this issue, there is a common call to refocus archival theories and methods so that they acknowledge and provide care not only for the records archivists preserve but also for the people who create, keep, use, are documented in, and steward those records. Particular importance is placed, throughout the contributions, on those persons who have traditionally had less agency in recordkeeping or who have been historically marginalized in recordkeeping discourses and practices, including records subjects and others impacted by decisions about how to describe and provide access to records. As discussed above, the impacts of recordkeeping have often been harmful – especially for many Indigenous, Black, brown, queer, and disabled communities, for whom the archive has acted as a site of violence and erasure. Despite the focus in the articles in this issue (and beyond it) on the experiences and needs of people who have been excluded from and impacted by decisions archivists make about records, there remains a need to think critically about who is included – or not – in ideas about person-centred theory and practices. Brilmyer, for example, shows us how some people’s personhood is called into question in archives, through the design of spaces and through policies and procedures that disregard disabled peoples’ lived experiences. In its illumination of the many ways disabled people’s needs are deprioritized in archival spaces and practices, their article is a clear call to consider which people are centred in the development of archival theory and methodologies.
+pppppppppppppppppppppppppppppp
+Paragraph 2:
+We also need to consider more fully a question, raised in both Christen’s and Malek’s articles, about “other-than-human beings.” Drawing on perspectives on personhood in the work of Daniel Heath Justice, Rosi Braidotti, and Donna Haraway, Malek ponders how archivists can “do right by [. . .] persons in their non-human forms.” In the context of the Lilian Bland Fonds, these non-human persons include animals as well as “the lands and waters present in the fonds.” Malek argues that, as archivists working with records documenting or benefiting from resource extraction and colonialism on lands stolen from Indigenous Peoples in a time of climate crisis, it is crucial that we engage with questions about “what it means to treat the records of a forest, a river, or an underground space as the records of persons.” Christen also reflects on the personhood of “non-humans,” including “material belongings, words uttered or sung, and/ or physical places on the lands.” Josiah, one of her interlocutors, describes cultural belongings and collections as relations and as kin; here, person-centred approaches to recordkeeping contend with the record as person.
+pppppppppppppppppppppppppppppp
+Paragraph 3:
+There are other areas this special issue only gestures toward. In order to be able to conceptualize and actualize person-centred archival theory and praxis, it is important to consider all aspects of archival systems and processes. While certain aspects of archival work are addressed in articles in this special issue, some archival functions are not represented; these include archival appraisal, digital preservation, and the design of digital systems and interfaces. And although several of the articles here engage with archival practices that are anti-racist in intention and nature, this issue does not include an article that makes this area of scholarship its primary focus. Recognizing this gap, we want to highlight the work of other recent special issues that are explicitly anti-racist in their focus and that surface different modes of person-centred archival work and practice; these include the special issues of The Black Scholar on Black archival practice, edited by Tonia Sutherland and Zakiya Collier, and the forthcoming special issue of Journal of Critical Library and Information Studies on “the mattering of Black lives,” edited by Michelle Caswell, Safiya Umoja Noble, Sarah T. Roberts, and Tonia Sutherland.
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 10:
+# An Invitation  
+
+We close this introduction with a final reflection on what we hope this special issue can offer the evolving lens of person-centred archival theory and praxis. While we provide no firm or final definitions, approaches, or guidelines, we believe there is power and potential in bringing together ideas to try to do this work. In a field with practical application like archival studies, naming and defining a phenomenon or practice permits us to prioritize certain actions and types of decision-making. It allows us to create policies and procedures that embed and enact a person-centred approach to archival stewardship that is oriented toward addressing past harms, ameliorating unjust practices, and envisioning more liberatory archival futures. The authors included in this special issue – and the theorists, practitioners, archival users, and records subjects they evoke, cite, and centre – provide us with salient examples of how we address, ameliorate, and envision. Importantly, they all figure “the archive” as a set of relations that expands, shifts, and changes over time as different actors move in and out of view. Existing at the heart of all archival relations, of course, are the people who create records, use records, care for records, and appear in the stories and narratives we tell about records and their legacies. A person-centred approach to archival practice and theory recognizes this. It invites each of us in as part of the ever-growing web of relations that sustain archives and imbue them with meaning. We hope that the themes emerging from this issue provide an opening for building and elaborating the frameworks of archival care, responsibility, stewardship, and reflexivity we need to continue creating and enacting person-centred archival theory and practices. Starting with kin, ending with love, and filled throughout with care, this issue invites you to reflect on the theories and approaches that guide your own research and practice.  
+
+ed. Caswell, Punzalan, and Sangwand, special issue, Journal of Critical Library and Information Studies 1, no. 2 (2017), https://doi.org/10.24242/jclis.v1i2.50; Marika Cifor, “Affecting Relations: Introducing Affect Theory to Archival Discourse,” Archival Science 16, no. 1 (2016): 7–31, https://doi.org/10.1007/s10502-015-9261-5; Michelle Caswell, “Teaching to Dismantle White Supremacy in Archives,” Library Quarterly 87, no. 3 (2017): 222–35, https://doi.org/10.1086/692299; Anne J. Gilliland, “Archival and Recordkeeping Traditions in the Multiverse and Their Importance for Researching Situations and Situating Research,” in Research in the Archival Multiverse, ed. Anne J. Gilliland, Sue McKemmish, and Andrew J. Lau (Clayton, VIC: Monash University Publishing, 2017). For additional examination of the nuances, benefits, and potential drawbacks of naming, see, among others, Cherryl Armstrong and Sheryl I. Fontaine, “The Power of Naming: Names that Create and Define the Discipline,” WPA: Writing Program Administration 13, no. 1–2 (1989): 5–14; Viktor Smith, Naming and Framing: Understanding the Power of Words across Disciplines, Domains, and Modalities (London: Routledge, 2022).  
+
+
+BIOGRAPHY  Jennifer Douglas is an associate professor at the School of Information, University of British Columbia, on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nation, where she teaches courses on archival arrangement and description, personal and community archives, and research methodologies. Her research is focused on the creation and representation of personal archives.  
+
+BIOGRAPHY  Mya Ballin recently completed her dual master’s degrees in archival studies and library and information studies at the University of British Columbia, located on the traditional, ancestral, unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nation. She currently lives on the lands of the Ramaytush and Tamyen Ohlone in what is now known as Mountain View, California. In her research, Mya is interested in exploring how records inform and interplay with personal and cultural identity/ies, particularly by examining the relationships between government records and the lives of adoptees and Care Leavers. She is the recipient of the 2022 Archivaria Gordon Dodds Prize.  
+
+BIOGRAPHY  Jessica Lapp completed her PhD at the University of Toronto’s Faculty of Information in 2020. Her research conceptualizes feminist records creation, expanded notions of provenance and records attribution, and the creation and circulation of digital records of feminist organizing. She continues to live and work in Tkaronto, which for thousands of years has been the traditional land of the Huron-Wendat, the Seneca, and the Mississaugas of the Credit.
+------------------------------
+Paragraph 0:
+# An Invitation
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+We close this introduction with a final reflection on what we hope this special issue can offer the evolving lens of person-centred archival theory and praxis. While we provide no firm or final definitions, approaches, or guidelines, we believe there is power and potential in bringing together ideas to try to do this work. In a field with practical application like archival studies, naming and defining a phenomenon or practice permits us to prioritize certain actions and types of decision-making. It allows us to create policies and procedures that embed and enact a person-centred approach to archival stewardship that is oriented toward addressing past harms, ameliorating unjust practices, and envisioning more liberatory archival futures. The authors included in this special issue – and the theorists, practitioners, archival users, and records subjects they evoke, cite, and centre – provide us with salient examples of how we address, ameliorate, and envision. Importantly, they all figure “the archive” as a set of relations that expands, shifts, and changes over time as different actors move in and out of view. Existing at the heart of all archival relations, of course, are the people who create records, use records, care for records, and appear in the stories and narratives we tell about records and their legacies. A person-centred approach to archival practice and theory recognizes this. It invites each of us in as part of the ever-growing web of relations that sustain archives and imbue them with meaning. We hope that the themes emerging from this issue provide an opening for building and elaborating the frameworks of archival care, responsibility, stewardship, and reflexivity we need to continue creating and enacting person-centred archival theory and practices. Starting with kin, ending with love, and filled throughout with care, this issue invites you to reflect on the theories and approaches that guide your own research and practice. ed. Caswell, Punzalan, and Sangwand, special issue, Journal of Critical Library and Information Studies 1, no. 2 (2017), https://doi.org/10.24242/jclis.v1i2.50; Marika Cifor, “Affecting Relations: Introducing Affect Theory to Archival Discourse,” Archival Science 16, no. 1 (2016): 7–31, https://doi.org/10.1007/s10502-015-9261-5; Michelle Caswell, “Teaching to Dismantle White Supremacy in Archives,” Library Quarterly 87, no. 3 (2017): 222–35, https://doi.org/10.1086/692299; Anne J. Gilliland, “Archival and Recordkeeping Traditions in the Multiverse and Their Importance for Researching Situations and Situating Research,” in Research in the Archival Multiverse, ed. Anne J. Gilliland, Sue McKemmish, and Andrew J. Lau (Clayton, VIC: Monash University Publishing, 2017). For additional examination of the nuances, benefits, and potential drawbacks of naming, see, among others, Cherryl Armstrong and Sheryl I. Fontaine, “The Power of Naming: Names that Create and Define the Discipline,” WPA: Writing Program Administration 13, no. 1–2 (1989): 5–14; Viktor Smith, Naming and Framing: Understanding the Power of Words across Disciplines, Domains, and Modalities (London: Routledge, 2022).
+pppppppppppppppppppppppppppppp
+Paragraph 2:
+BIOGRAPHY Jennifer Douglas is an associate professor at the School of Information, University of British Columbia, on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nation, where she teaches courses on archival arrangement and description, personal and community archives, and research methodologies. Her research is focused on the creation and representation of personal archives.
+pppppppppppppppppppppppppppppp
+Paragraph 3:
+BIOGRAPHY Mya Ballin recently completed her dual master’s degrees in archival studies and library and information studies at the University of British Columbia, located on the traditional, ancestral, unceded territory of the xʷməθkʷəy̓əm (Musqueam) First Nation. She currently lives on the lands of the Ramaytush and Tamyen Ohlone in what is now known as Mountain View, California. In her research, Mya is interested in exploring how records inform and interplay with personal and cultural identity/ies, particularly by examining the relationships between government records and the lives of adoptees and Care Leavers. She is the recipient of the 2022 Archivaria Gordon Dodds Prize.
+pppppppppppppppppppppppppppppp
+Paragraph 4:
+BIOGRAPHY Jessica Lapp completed her PhD at the University of Toronto’s Faculty of Information in 2020. Her research conceptualizes feminist records creation, expanded notions of provenance and records attribution, and the creation and circulation of digital records of feminist organizing. She continues to live and work in Tkaronto, which for thousands of years has been the traditional land of the Huron-Wendat, the Seneca, and the Mississaugas of the Credit.
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++
+Section 11:
+# Test
+my test
+
+## test
+
+### My test
+test 
+
+### test1
+
+test1
+------------------------------
+Paragraph 0:
+# Test my test ## test ### My test test ### test1
+pppppppppppppppppppppppppppppp
+Paragraph 1:
+test1
+pppppppppppppppppppppppppppppp
+++++++++++++++++++++++++++++++

@@ -8,11 +8,26 @@ from loguru import logger
 
 from archsci_dataset import __app_name__, __version__
 from archsci_dataset.convert import convert_article
+from archsci_dataset.preprocess_footnotes import preprocess_footnotes_file
+from archsci_dataset.test01 import main as mytest01
+from archsci_dataset.test03 import main as mytest03
 
 app = typer.Typer(
     help="Archival Science dataset tool",
     no_args_is_help = True,
     )
+
+@app.command("test01")
+def  test01():
+    logger.info("test01")
+    mytest01()
+    return
+
+@app.command("test03")
+def  test03():
+    logger.info("test03")
+    mytest03()
+    return
 
 @app.command("version")
 def _version_callback(value: bool = True) -> None:
@@ -23,6 +38,13 @@ def _version_callback(value: bool = True) -> None:
 @app.command("preprocess")
 def preprocess():
     print("preprocess")
+    return
+
+@app.command("preprocess_footnotes")
+def preprocess_footnotes():
+    logger.info("starting to preprocess footnotes ...")
+    preprocess_footnotes_file("./data/journals/00001.md")
+    logger.info("finisehd preprocessing footnotes ...")
     return
 
 @app.command("convert")
